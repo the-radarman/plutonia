@@ -22,7 +22,9 @@
 
 ## Dolmenwood Books
 <https://necroticgnome.com/products/dolmenwood-players-book>
+
 <https://necroticgnome.com/products/dolmenwood-campaign-book>
+
 <https://necroticgnome.com/products/dolmenwood-monster-book>
 
 ## The Curse of Strahd
