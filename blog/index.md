@@ -1,3 +1,6 @@
+---
+title: Blog
+---
 # Latest Blog Post:
 ## Blog Post 1
 *Posted: October 18, 2026* | *Hot Wheels*
