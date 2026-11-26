@@ -2,7 +2,6 @@
 title: Home
 ---
 
-# RADAR PLUTONIA
  
 ## TTRPG WISHLIST
 
