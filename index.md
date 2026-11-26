@@ -4,7 +4,7 @@ title: Home
 
 # RADAR PLUTONIA
  
-## WISHLIST
+## TTRPG WISHLIST
 
 
 ## The Monster Overhaul
@@ -36,3 +36,25 @@ title: Home
 
 ## i6 Ravenloft
 <https://www.drivethrurpg.com/en/product/17527/i6-ravenloft-1e>
+
+## Return of the Lazy Dungeon Master
+<https://shop.slyflourish.com/collections/the-lazy-dungeon-master-series/products/return-of-the-lazy-dungeon-master>
+
+## City of Arches
+<https://shop.slyflourish.com/collections/sly-flourishs-adventures/products/the-city-of-arches>
+
+## The Lazy DM's Forge of Foes
+<https://shop.slyflourish.com/collections/the-lazy-dungeon-master-series/products/forge-of-foes>
+
+## Obojima
+### Rule Book
+<https://obojima.com/collections/books/products/obojima-hardcover-book>
+
+### Magic Items Cards
+<https://obojima.com/products/magic-item-deck>
+
+### Potion Brewing Cards
+<https://obojima.com/collections/accessories/products/potion-ingredient-deck-box>
+
+
+
